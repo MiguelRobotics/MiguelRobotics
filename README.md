@@ -5,6 +5,8 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-f-s-moraes-313a27284)
 
 ![MiguelRobotics GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelRobotics&show_icons=true&theme=radical)
+![MiguelRoboticsGitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRobotics&show&theme=blue-green)
+
 
 
 ## Algumas Tecnologias do dia a dia :D 
