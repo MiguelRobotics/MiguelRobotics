@@ -21,4 +21,4 @@
 </div><br/>
 
 
-Estudante de programação apaixonado por aprender coisas novas e resoler problemas.
+Sou um programador Java e Python, mas minha paixão e desenvolvimento de habilidades é voltado para a área de segurança da informação e suporte. Esse Git tem como objetivo colocar meus projetos pessoais em programação, entretanto de vez em quando irei colocar algumas postagens ou insights sobre a área da cibersecurity e robótica. 
